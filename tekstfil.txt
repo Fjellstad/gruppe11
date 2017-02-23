@@ -1,2 +1,6 @@
 mammasnadder
+<<<<<<< HEAD
 Jaaaaa da prøver vi igjen...
+=======
+oh yes we like it
+>>>>>>> f98ccf5b50cef7dc06bd05c06591d45fd7e3b4bf
